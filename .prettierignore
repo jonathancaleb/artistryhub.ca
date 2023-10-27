@@ -1,0 +1,16 @@
+*.php
+
+kirby/
+
+vendor/
+node_modules/
+.vscode/
+
+media/
+
+site/accounts/
+site/cache/
+site/plugins/
+site/sessions/
+
+collect.js
