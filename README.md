@@ -1,15 +1,9 @@
 <div align="center">
 
- <p><img src="./thumbnail.png" width="800px" alt="Black and white photo of Benjamin Haeberli working on a computer."></p>
+
 
 **Personal website built with [Kirby CMS](https://getkirby.com/) and designed by myself 🥳**
 
-[![License GPL v3](https://img.shields.io/badge/license-AGPLv3-brightgreen.svg?color=192433)](./LICENSE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/benjaminhaeberli/benjaminhaeberli.ch?color=192433)](https://github.com/benjaminhaeberli/benjaminhaeberli.ch/commits/main)
-[![GitHub Language](https://img.shields.io/github/languages/top/benjaminhaeberli/benjaminhaeberli.ch?color=192433)](https://github.com/benjaminhaeberli/benjaminhaeberli.ch/search?l=php)
-[![GitHub Stars](https://img.shields.io/github/stars/benjaminhaeberli/benjaminhaeberli.ch?color=192433)](https://github.com/benjaminhaeberli/benjaminhaeberli.ch/stargazers)
-[![Tests](https://github.com/benjaminhaeberli/benjaminhaeberli.ch/actions/workflows/tests.yml/badge.svg)](https://github.com/benjaminhaeberli/benjaminhaeberli.ch/actions/workflows/tests.yml)
-[![SSH deploy 🚀](https://github.com/benjaminhaeberli/benjaminhaeberli.ch/actions/workflows/ssh-deploy.yml/badge.svg)](https://github.com/benjaminhaeberli/benjaminhaeberli.ch/actions/workflows/ssh-deploy.yml)
 
  </div>
 

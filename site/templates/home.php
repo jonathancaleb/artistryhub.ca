@@ -14,8 +14,8 @@
                     <?= page()->hero_text()->kt() ?>
                 </div>
                 <div class="flex flex-wrap gap-x-6 gap-y-4">
-                    <a href="https://calendly.com/benjaminhaeberli/visioconference" class="bh__btn">Planifier un appel</a>
-                    <a href="https://tally.so/r/n08Eey" target="_blank" class="bh__btn bh__btn-light">Me contacter</a>
+                    <a href="https://calendly.com/sabilacaleb/talk-with-me" class="bh__btn">Schedule a call</a>
+                    <a href="https://tally.so/r/nGpaYO" target="_blank" class="bh__btn bh__btn-light">Contact me</a>
                 </div>
             </div>
             <img class="inline-block object-cover m-auto h-96 lg:m-0" src="/assets/images/benjamin-haeberli-software-developer_squooshed.avif" alt="Photo de Benjamin Haeberli assis devant son ordinateur">
