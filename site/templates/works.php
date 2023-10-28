@@ -9,7 +9,7 @@ use Kirby\Cms\Url;
 <main class="flex flex-col gap-16">
     <section class="container max-w-screen-xl px-8 pt-24 mx-auto">
         <div class="flex flex-col gap-4 px-8 mx-auto text-center md:px-16 lg:px-0">
-            <p class="font-mono font-bold uppercase text-slate-600">Mes derniers projets réalisés 💼</p>
+            <p class="font-mono font-bold uppercase text-slate-600">My latest completed projects 💼</p>
             <h1 class="text-4xl font-bold">
                 <?= page()->title() ?>
             </h1>
@@ -19,7 +19,7 @@ use Kirby\Cms\Url;
     <section class="flex items-center max-w-screen-xl gap-4 px-8 mx-auto">
         <article class="flex flex-col max-w-lg gap-8 p-4 mb-8">
             <div class="flex flex-col gap-2">
-                <h2 class="text-3xl font-bold">Refonte d'un site vitrine</h2>
+                <h2 class="text-3xl font-bold">Redesign of a showcase site</h2>
                 <p class="text-zinc-400">Site <a href="https://guillemsalles.fr/" class="bh__href" target="_blank">guillemsalles.fr</a> réalisé en 2022</p>
             </div>
             <p class="pl-4 text-lg border-l-4 border-primary">Benjamin a fait un super job pour créer mon site web. Des propositions au niveau de l'architecture, de l'hébergement jusqu'aux différentes fonctionnalités son travail a été soigné et précieux, notamment sur le volet de l'impact environnemental.

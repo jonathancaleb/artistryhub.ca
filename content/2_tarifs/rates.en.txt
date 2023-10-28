@@ -1,4 +1,4 @@
-Title: Blog
+Title: Tarifs
 
 ----
 
@@ -14,4 +14,4 @@ Desc:
 
 ----
 
-Uuid: 9dZueuuok1via3kr
+Uuid: veGUrVizDlOMxIyy

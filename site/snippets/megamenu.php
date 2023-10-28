@@ -26,7 +26,7 @@ use BenjaminHaeberli\Portfolio\KirbyHelper;
             <?php endforeach ?>
         </ol>
         <div>
-            <a href="https://tally.so/r/n08Eey" target="_blank" class="bh__btn">Contactez-moi !</a>
+            <a href="https://tally.so/r/nGpaYO" target="_blank" class="bh__btn">contact-me !</a>
         </div>
     </nav>
 <?php endif; ?>

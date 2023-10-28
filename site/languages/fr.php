@@ -2,10 +2,12 @@
 
 return [
     'code' => 'fr',
-    'default' => true,
+    'default' => false,
     'direction' => 'ltr',
-    'locale' => 'fr_FR',
-    'name' => 'Français',
+    'locale' => [
+        'LC_ALL' => 'fr_FR'
+    ],
+    'name' => 'French',
     'translations' => [
         'Street' => 'Adresse',
         'Content' => 'Contenu'

@@ -35,7 +35,7 @@
 @tailwind components;
 
 @layer components {
-  /** TODO : METTRE LE MASK DE COULEUR PRIMARY POUR LES BOUTONS LIGHTS */
+  /** TODO : PUT THE PRIMARY COLOR MASK FOR THE LIGHT BUTTONS */
   .bh__btn:not([href^="https://benjaminhaeberli.ch"]):not([href^="#"]):not(
       [href^="/"]
     )::after {

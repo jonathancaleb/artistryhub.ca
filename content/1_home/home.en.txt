@@ -1,33 +1,33 @@
-Title: Accueil
+Title: Welcome
 
 ----
 
 Hero-title:
 
-<p class="font-mono font-bold uppercase text-slate-600">Bienvenue, je suis Benjamin Haeberli !</p>
+<p class="font-mono font-bold uppercase text-slate-600">Welcome, I am Sabila Caleb !</p>
             <h1 class="text-6xl font-bold">
-                Un développeur <span class="relative inline-block before:block before:absolute before:-inset-1 before:scale-y-75 before:bg-green-300 before:translate-y-1">
-                    <span class="relative">engagé</span>
-                </span> pour du code performant et durable.
+                A developer <span class="relative inline-block before:block before:absolute before:-inset-1 before:scale-y-75 before:bg-green-300 before:translate-y-1">
+                    <span class="relative">engaged</span>
+                </span> for efficient and sustainable code.
             </h1>
 
 ----
 
-Hero-text: Si vous êtes un passionné de la performance et de la simplicité, vous êtes au bon endroit. Je travaille avec des technologies modernes comme (link: https://laravel.com/ text: Laravel target: _blank), (link: https://getkirby.com/ text: Kirby target: _blank), (link: https://tailwindcss.com/ text: TailwindCSS target: _blank) ou encore SQL. Je développe pour vous des solutions éthiques, sur-mesure et écoresponsables.
+Hero-text: If you are passionate about performance and simplicity, you are in the right place. I work with modern technologies like (link: https://laravel.com/ text: Laravel target: _blank), (link: https://getkirby.com/ text: Kirby target: _blank), (link: https: //tailwindcss.com/ text: TailwindCSS target: _blank) or even SQL. I develop ethical, tailor-made and eco-responsible solutions for you.
 
 ----
 
 Questions:
 
 - 
-  title: Quels sont tes tarifs ?
-  answer: '<p>Mon tarif horaire est fixé à 110 CHF, mais vous pouvez retrouver tous les détails <strong>dans ce document</strong>.</p>'
+  title: What are your prices?
+  answer: '<p>My hourly rate is set at 110 CHF, but you can find all the details <strong>in this document</strong>.</p>'
   open: 'false'
 - 
   title: >
-    Où habites-tu ? Travailles-tu à
+    Where do you live ? Do you work at
     distance ?
-  answer: "<p>J'habite en Suisse et travaille uniquement à travail, étant déjà engagé à 40% dans une entreprise à Lausanne.</p>"
+  answer: "<p>I live in Uganda and only work, being already 40% committed to a company in Kampala.</p>"
   open: 'false'
 
 ----
@@ -36,8 +36,12 @@ Desc:
 
 ----
 
-Description: teste
+Description: test
 
 ----
 
 Text: I'm a page test (EN)
+
+----
+
+Uuid: VKj3YX1nqUrw2sNK

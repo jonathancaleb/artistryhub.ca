@@ -2,10 +2,14 @@
 
 return [
     'code' => 'en',
-    'default' => false,
+    'default' => true,
     'direction' => 'ltr',
-    'locale' => 'en_GB',
+    'locale' => [
+        'LC_ALL' => 'en_GB'
+    ],
     'name' => 'English',
-    'translations' => [],
-    'url' => null
+    'translations' => [
+
+    ],
+    'url' => NULL
 ];

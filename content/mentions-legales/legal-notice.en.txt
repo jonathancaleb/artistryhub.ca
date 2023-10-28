@@ -1,0 +1,39 @@
+Title: Legal Notice
+
+----
+
+Main-content:
+
+The benjaminhaeberli.ch website is edited by **Caleb Sabila** and published under license (link: https://github.com/jonathancaleb/artistryhub.ca/blob/main/LICENSE text: GNU AGPL v3.0 target:_blank). For any technical inquiries, please refer to the administrator : sabilacalebjonathan@gmail.com
+
+- Caleb Sabila Jonathan
+- Kampala, Uganda
+- Ndagire Road, Kireka
+- (link: mailto:sabilacalebjonathan@gmail.com text: sabilacalebjonathan@gmail.com)
+- (link: tel:+256750681731 text:  +256786546416)
+
+## Intellectual property
+
+In general, the data, programs, musical samples, texts, information, logos, visual identities, images (animated or not) and their formatting, videos, appearing on this site are the property by **Caleb Sabila** and are protected as such by the provisions of (link: https://ursb.go.ug/intellectual-property/copyright text: Uganda copyright law target:_blank).
+
+All Internet users undertake to use them only within the strict framework offered by the license. (link: https://github.com/jonathancaleb/artistryhub.ca/blob/main/LICENSE text: GNU AGPL v3.0 target:_blank).
+
+## Responsibility
+
+**Caleb Sabila** declines all responsibility for any malfunctions that may occur on this site and result in loss of data or unavailability of access to the information produced on it. **Caleb Sabila** cannot guarantee the completeness and veracity of the information on this site as well as the absence of modification by a third party (intrusion, virus). The Internet user is solely responsible for his or her use of the content of the site.
+
+The elements presented on this site are subject to modification without notice and are made available to Internet users, without any guarantee of any kind, express or tacit.
+
+The presence of hypertext links on this site does not create solidarity of responsibility between **Caleb Sabila** and the owners of other sites, as to the content of the sites to which the Internet user is redirected. Only the responsibility of said sites can be held.
+
+----
+
+Uuid: OLcqFnq8pttqaQhM
+
+----
+
+Hero-title: 
+
+----
+
+Hero-text: 

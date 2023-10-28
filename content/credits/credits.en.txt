@@ -1,0 +1,36 @@
+Title: Credits
+
+----
+
+Main-content:
+
+- Icons of (link: https://heroicons.com/ text: heroicons.com) And (link: https://remixicon.com/ text: remixicon.com).
+- Site coded with (link: https://getkirby.com/ text: Kirby) And (link: https://tailwindcss.com/ text: Tailwind CSS).
+
+----
+
+Kirbyseoobject: 
+
+----
+
+Kirbyseometatitle: 
+
+----
+
+Kirbyseometadesc: 
+
+----
+
+Kirbyseokeywords: 
+
+----
+
+Kirbyseocanonicalurl: 
+
+----
+
+Seometatitle: 
+
+----
+
+Uuid: T5zNadGtfnxwTfwS

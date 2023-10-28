@@ -8,9 +8,9 @@ $packages = ComposerHelper::getPackages();
 <?php if ($packages !== []) : ?>
     <div class="flex flex-col gap-2">
         <h2 class="text-2xl font-bold">
-            Dépendances PHP
+        PHP Dependencies
         </h2>
-        <p>Les librairies utilisées pour développer ce site sont listées ci-dessous. Le code complet de ce dernier est disponible sur <a href="https://github.com/benjaminhaeberli/benjaminhaeberli.ch/" target="_blank" class="bh__href">ce repôt GitHub</a>.</p>
+        <p>The libraries used to develop this site are listed below. The complete code of the latter is available on <a href="https://github.com/jonathancaleb/artistryhub.ca/" target="_blank" class="bh__href">this GitHub repository</a>.</p>
         <ul class="z-10 grid grid-cols-1 gap-2 p-2 text-sm md:p-8 md:grid-cols-2 bg-zinc-900/20">
             <?php foreach ($packages as $package) : ?>
                 <li class="flex gap-1">
